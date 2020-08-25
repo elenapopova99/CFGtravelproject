@@ -143,6 +143,12 @@ body {
   height:170px;
 }
 
+
+.col-sm-6:hover {
+    color: gray;
+    opacity: 0.7;
+}
+
 .display-4 {
   font-family: 'Anton', sans-serif;
     font-size: 40px;
