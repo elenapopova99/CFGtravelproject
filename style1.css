@@ -170,6 +170,11 @@ body {
   font-family: 'Anton', sans-serif;
 }
 
+.card:hover {
+  height: 200px;
+  
+}
+
 footer {
   background-color: #348199d5;
   color: #d5d5d5;
