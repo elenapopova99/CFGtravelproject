@@ -137,12 +137,18 @@ body {
 }
 
 #cities img {
-  width: 100%;  /* fit the image within the div */
-  margin: 15px 0;
+  
+  margin-left: 0px;
+  margin-right: 0px;
   width: 250px;
   height:170px;
+  padding: 10px;
 }
 
+.row {
+
+padding: 10px;
+}
 
 .col-sm-6:hover {
     color: gray;
