@@ -137,10 +137,22 @@ body {
 }
 
 #cities img {
-  width: 100%;  /* fit the image within the div */
-  margin: 15px 0;
+  
+  margin-left: 0px;
+  margin-right: 0px;
   width: 250px;
   height:170px;
+  padding: 10px;
+}
+
+.row {
+
+padding: 10px;
+}
+
+.col-sm-6:hover {
+    color: gray;
+    opacity: 0.7;
 }
 
 .display-4 {
@@ -162,6 +174,11 @@ body {
   text-align: center;
   color: #303233d5;
   font-family: 'Anton', sans-serif;
+}
+
+.card:hover {
+  height: 200px;
+  
 }
 
 footer {
